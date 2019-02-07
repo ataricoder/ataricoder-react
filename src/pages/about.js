@@ -31,6 +31,9 @@ const AboutPage = () => (
         <a href="https://www.hackerrank.com/ataricoder">HackerRank</a>
         <br />
         <br />
+        <a href="https://docs.google.com/document/d/17xFaVRnloWPRDePjZcR1Co0BUF4vDlSxkRrdapKKBpY/edit?usp=sharing">Resume</a>
+        <br />
+        <br />
       </div>
     </div>
   </div>

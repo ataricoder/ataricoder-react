@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/dany/Desktop/arcade-work/.cache/dev-404-page.js",
+      "component": "/Users/dany/Desktop/ataricoder/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/dany/Desktop/arcade-work/.cache/dev-404-page.js",
+      "componentPath": "/Users/dany/Desktop/ataricoder/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "64d1c0a62097f2e0adf9a2292105ed62",
+        "contentDigest": "ebaba0be7ad78c34ec65bbfdd81c14b1",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "577e00309fa73f6a671256c6a6710fe3",
+        "contentDigest": "830e5c3cdc7af7fc217c2750305adca6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "29f648467d023a6722bb0f4abdace6b0",
+        "contentDigest": "69417705d3235eecb4e537a982749d7f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -109,7 +109,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -126,13 +126,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "560f5c40dbdd9ffbae4cb6839d9bcc59",
+        "contentDigest": "e1083310676c8a6214e4447425e8188d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -144,7 +144,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -161,13 +161,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c2f0497d10564c9831651f1ed482d5d0",
+        "contentDigest": "07c3a9e5c9923cc796d0429e0cddbeb8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -180,7 +180,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dany/Desktop/arcade-work/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/dany/Desktop/ataricoder/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -197,13 +197,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "81d4c3025086b42791ab7c8a2bc0a271",
+        "contentDigest": "45ffca38d4a5e53dd4094c6c604b002e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "/Users/dany/Desktop/arcade-work/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/dany/Desktop/ataricoder/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.10",
@@ -215,7 +215,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/dany/Desktop/arcade-work/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/dany/Desktop/ataricoder/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -274,13 +274,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c8dc4d35bb117e7489f267911b916fb8",
+        "contentDigest": "367a78dbad7994ba9f315148ab1490a5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "/Users/dany/Desktop/arcade-work",
+      "resolve": "/Users/dany/Desktop/ataricoder",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "42825a8013b6d32f30ffc45c771df110",
@@ -290,7 +290,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dany/Desktop/arcade-work",
+      "pluginFilepath": "/Users/dany/Desktop/ataricoder",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -363,19 +363,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4c659d3821201cc61706a601e4a472ea",
+        "contentDigest": "5ddcede5627747eb3e321272096ec40f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-page-creator": {
-      "resolve": "/Users/dany/Desktop/arcade-work/node_modules/gatsby-plugin-page-creator",
+      "resolve": "/Users/dany/Desktop/ataricoder/node_modules/gatsby-plugin-page-creator",
       "id": "Plugin gatsby-plugin-page-creator",
       "name": "gatsby-plugin-page-creator",
       "version": "1.0.1",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/dany/Desktop/arcade-work/src/pages",
+        "path": "/Users/dany/Desktop/ataricoder/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -383,7 +383,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/dany/Desktop/arcade-work/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/dany/Desktop/ataricoder/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -445,7 +445,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0eb4fc21eda8a8e5f319c30a51f01977",
+        "contentDigest": "aecbc08fc4abb6a76c827e9d0aa95c5d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -458,12 +458,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-31T00:15:30.994Z",
+      "buildTime": "2019-02-06T23:53:58.054Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "32f93d73f4c9df8f84f3d8d0ee88ea78",
+        "contentDigest": "d6f2278498e4d8714e5eb06dc48a6bcd",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -473,18 +473,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/dany/Desktop/arcade-work/src/pages/404.js",
+      "component": "/Users/dany/Desktop/ataricoder/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/404.js",
+      "componentPath": "/Users/dany/Desktop/ataricoder/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "84e98c0a7a7da0ce5dc7f0cdab218f25",
+        "contentDigest": "70ff822be5b59bd2f8a7864d42b4bb90",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -494,18 +494,18 @@
       "jsonName": "about.json",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/dany/Desktop/arcade-work/src/pages/about.js",
+      "component": "/Users/dany/Desktop/ataricoder/src/pages/about.js",
       "componentChunkName": "component---src-pages-about-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/about.js",
+      "componentPath": "/Users/dany/Desktop/ataricoder/src/pages/about.js",
       "id": "SitePage /about/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ded1f735321aeb0e5cbbb32b0acf8cf1",
+        "contentDigest": "2cb96d29831978a6a458f31e4f574f3f",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -515,18 +515,18 @@
       "jsonName": "hello.json",
       "internalComponentName": "ComponentHello",
       "path": "/hello/",
-      "component": "/Users/dany/Desktop/arcade-work/src/pages/hello.js",
+      "component": "/Users/dany/Desktop/ataricoder/src/pages/hello.js",
       "componentChunkName": "component---src-pages-hello-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/hello.js",
+      "componentPath": "/Users/dany/Desktop/ataricoder/src/pages/hello.js",
       "id": "SitePage /hello/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c4c5a2706f7de05ccd03808b7ddf1abd",
+        "contentDigest": "0662cf059bf2ad8b7f60f8d9e471e365",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -536,18 +536,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/dany/Desktop/arcade-work/src/pages/index.js",
+      "component": "/Users/dany/Desktop/ataricoder/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/index.js",
+      "componentPath": "/Users/dany/Desktop/ataricoder/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4c3a5923213941bd3abcdb9911282b05",
+        "contentDigest": "9fc5512049bdf60cfc6512499491ebe7",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -557,18 +557,18 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "/Users/dany/Desktop/arcade-work/src/pages/page-2.js",
+      "component": "/Users/dany/Desktop/ataricoder/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/page-2.js",
+      "componentPath": "/Users/dany/Desktop/ataricoder/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2371832b9b9c332078601b16e5bf4766",
+        "contentDigest": "9fa7834d4821ab1331d217a8b3a28615",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -578,18 +578,18 @@
       "jsonName": "work.json",
       "internalComponentName": "ComponentWork",
       "path": "/work/",
-      "component": "/Users/dany/Desktop/arcade-work/src/pages/work.js",
+      "component": "/Users/dany/Desktop/ataricoder/src/pages/work.js",
       "componentChunkName": "component---src-pages-work-js",
       "context": {},
       "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
       "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/work.js",
+      "componentPath": "/Users/dany/Desktop/ataricoder/src/pages/work.js",
       "id": "SitePage /work/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "57fd7207bf232138125be6fed4e7fb07",
+        "contentDigest": "e87199fd4b517d317a03336de936a9cc",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -599,18 +599,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/dany/Desktop/arcade-work/src/pages/404.js",
+      "component": "/Users/dany/Desktop/ataricoder/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/Users/dany/Desktop/arcade-work/src/pages/404.js",
+      "componentPath": "/Users/dany/Desktop/ataricoder/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8848994efb40b95ba98b67d30e6f7770",
+        "contentDigest": "3245b412efd38260885fbe338ebcbe86",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }

@@ -33,7 +33,7 @@ a{
 .HeroGroup {
   margin: 0 auto;
   max-width: 500px;
-  padding: 250px 50px;
+  padding: 250px 50px 50px 50px;
   text-align: left;
 }
 
@@ -131,7 +131,23 @@ a{
 
 
 
+.CardGroup {
+  margin: 50px 200px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  justify-items: center;
+}
 
+.Cards h2 {
+  margin: 50px 20px;
+  font-size: 60px;
+  text-align: center;
+  font-weight: 700;
+  background: linear-gradient(104deg, #050A27 0%, #4A548C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
 
 
