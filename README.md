@@ -14,3 +14,10 @@ Custom Font:
 Inter UI  
 Made by: rsms  
 https://rsms.me/  
+
+Libraries used
+fullpage.js-react version
+https://github.com/alvarotrigo/react-fullpage
+```
+npm install @fullpage/react-fullpage
+```
