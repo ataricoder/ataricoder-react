@@ -1,5 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import ReactDOM from 'react-dom';
+import ReactFullPage from '@fullpage/react-fullpage';
 
 const HelloPage = () => (
   <div>
